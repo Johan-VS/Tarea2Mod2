@@ -131,7 +131,6 @@ do
 
             Console.WriteLine("La sumatoria es: " + Restanumero + "\n");
 
-
             while (true)
             {
                 while (true)
