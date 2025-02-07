@@ -1,5 +1,7 @@
 ﻿int opcion = 0;
 double num1=0, num2=0, numero = 0, exp=0;
+
+Console.WriteLine("DEV-Johan Morales");
 do
 {Console.Clear();
     Console.WriteLine("*********************************************************************");
